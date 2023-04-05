@@ -6,7 +6,7 @@
 - [Universal Dependencies](https://universaldependencies.org/#language-), 0.1M, UD
 
 ## Unlabeled data
-- Part of [EANC](http://eanc.net/EANC/library/library.php?interface_language=ru)   , 104 texts, ~5m tokens
+- Part of [EANC](http://eanc.net/EANC/library/library.php?interface_language=ru), 5M
 - [Corpora](https://wortschatz.uni-leipzig.de/en/download/Armenian#hye_wikipedia_2021)
   - [News](https://corpora.uni-leipzig.de/en?corpusId=hye_news_2019) 2019, 0.3M, Used text material was taken from news websites
   - [News](https://corpora.uni-leipzig.de/en?corpusId=hye_news_2020) 2020, 1.5M, Used text material was taken from news websites

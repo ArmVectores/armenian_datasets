@@ -1,4 +1,4 @@
-# Western armenian langauage 
+# Western armenian language 
 
 ## Corpuses
 - [EANC](http://eanc.net.), 110M, UD, no API

@@ -1,8 +1,9 @@
 # armenian_datasets
 
 ## Labeled data
-- [EANC](http://eanc.net.),110M, UD, no API
-- [Armtreebank](http://armtreebank.yerevann.com),0.1M, UD
+- [EANC](http://eanc.net.), 110M, UD, no API
+- [Armtreebank](http://armtreebank.yerevann.com), 0.1M, UD
+- [Universal Dependencies](https://universaldependencies.org/#language-), 0.1M, UD
 
 ## Unlabeled data
 - Part of [EANC](http://eanc.net/EANC/library/library.php?interface_language=ru)   , 104 texts, ~5m tokens

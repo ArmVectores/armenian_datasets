@@ -9,3 +9,4 @@
   - [Wikipedia](https://corpora.uni-leipzig.de/en?corpusId=hye_wikipedia_2021) 2021, 22M 
   - [Newscrawl](https://corpora.uni-leipzig.de/en?corpusId=hye_newscrawl_2011) 2011, 2.3M, Used text material was crawled from news websites and may be older than the specified year 
 - [CC100](https://data.statmt.org/cc-100/), 776M, websites from January-December 2018 Commoncrawl snapshots from the [CC-Net repository](https://github.com/facebookresearch/cc_net), [CC-Net paper](https://arxiv.org/abs/1911.00359). [Commoncrawl](https://commoncrawl.org/the-data/get-started/) creates snapshots of open internet resourses
+- Not done [Wikisource](https://hy.wikisource.org/wiki/Գլխավոր_էջ) 

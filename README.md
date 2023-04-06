@@ -1,4 +1,4 @@
-# Western armenian language 
+# Western armenian datasets
 
 ## Corpuses
 - [EANC](http://eanc.net.), 110M, UD, no API
@@ -22,3 +22,7 @@
 - Not done [Wikisource 2023](https://hy.wikisource.org/wiki/Գլխավոր_էջ), XM
 - Not done [Wikipedia 2023](https://hy.wikipedia.org/wiki/Գլխավոր_էջ), XM
 - Not done [Parallel RNC](https://ruscorpora.ru/new/search-para.html?lang=hye), XM
+
+
+# Models
+- Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)

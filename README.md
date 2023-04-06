@@ -21,7 +21,7 @@
 - [OSCAR 23.01](https://huggingface.co/datasets/oscar-corpus/OSCAR-2301), 330M, [OSCAR](https://oscar-project.org) is a web-based multilingual datasets, 
 - Not done [Wikisource 2023](https://hy.wikisource.org/wiki/Գլխավոր_էջ), XM
 - Not done [Wikipedia 2023](https://hy.wikipedia.org/wiki/Գլխավոր_էջ), XM
-- Not done [Parallel RNC](https://ruscorpora.ru/new/search-para.html?lang=hye), XM
+- Not done [Parallel RNC](https://ruscorpora.ru/new/search-para.html?lang=hye), 0.7M
 
 
 # Models

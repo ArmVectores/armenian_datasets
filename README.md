@@ -20,8 +20,8 @@
 - [CC100](https://data.statmt.org/cc-100/), 776M, websites from January-December 2018 Commoncrawl snapshots from the [CC-Net repository](https://github.com/facebookresearch/cc_net), [CC-Net paper](https://arxiv.org/abs/1911.00359). [Commoncrawl](https://commoncrawl.org/the-data/get-started/) creates snapshots of open internet resourses
 - [OSCAR 23.01](https://huggingface.co/datasets/oscar-corpus/OSCAR-2301), 330M, [OSCAR](https://oscar-project.org) is a web-based multilingual datasets, 
 - Not done [Wikisource 2023](https://hy.wikisource.org/wiki/Գլխավոր_էջ), XM
-- Not done [Wikipedia 2023](https://hy.wikipedia.org/wiki/Գլխավոր_էջ), XM
-- Not done [Parallel RNC](https://ruscorpora.ru/new/search-para.html?lang=hye), 0.7M
+- [Wikipedia 2023](https://huggingface.co/datasets/armvectores/hy_wikipedia_2023), 80M
+- [Parallel RNC](https://huggingface.co/datasets/armvectores/hy_parallel_rnc_2023), 0.7M
 
 
 # Models

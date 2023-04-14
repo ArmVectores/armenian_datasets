@@ -35,5 +35,7 @@
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)
 - [Haybook](https://haybook.wordpress.com/)
 - [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)
+- [National library of Armenia](https://nla.am/arm/?q=en/node/3)
+- [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/ձեռագրերի-մայր-ցուցակ/)
 
 

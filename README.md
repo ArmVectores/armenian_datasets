@@ -1,6 +1,6 @@
 # Armenian datasets
 
-## Weastern
+## Eastern
 
 ### Corpuses
 - [EANC](http://eanc.net.), 110M, UD, no API

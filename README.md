@@ -34,5 +34,6 @@
 - [Artsakh e-library](https://artsakhlib.am/en/)
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)
 - [Haybook](https://haybook.wordpress.com/)
+- [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)
 
 

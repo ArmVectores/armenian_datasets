@@ -33,5 +33,6 @@
 - [AUA library](https://digilib.aua.am/en/library/all)
 - [Artsakh e-library](https://artsakhlib.am/en/)
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)
+- [Haybook](https://haybook.wordpress.com/)
 
 

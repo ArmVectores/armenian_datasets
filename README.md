@@ -1,15 +1,17 @@
-# Eastern armenian datasets
+# Armenian datasets
 
-## Corpuses
+## Weastern
+
+### Corpuses
 - [EANC](http://eanc.net.), 110M, UD, no API
 - [Armtreebank](http://armtreebank.yerevann.com), 0.1M, UD
 - [Universal Dependencies](https://universaldependencies.org/#language-), 0.1M, UD
 
-## Labeled data
+### Labeled data
 - [Translated movie subtitles](https://opus.nlpl.eu/OpenSubtitles2018.php), 0.033M
 - [Paraphrase](https://github.com/ivannikov-lab/arpa-paraphrase-corpus), 0.18M
 
-## Unlabeled data
+### Unlabeled data
 - Part of [EANC](http://eanc.net/EANC/library/library.php?interface_language=ru), 5M
 - [Corpora](https://wortschatz.uni-leipzig.de/en/download/Armenian#hye_wikipedia_2021)
   - [News](https://corpora.uni-leipzig.de/en?corpusId=hye_news_2019) 2019, 0.3M, Used text material was taken from news websites
@@ -23,6 +25,11 @@
 - [Wikipedia 2023](https://huggingface.co/datasets/armvectores/hy_wikipedia_2023), 80M
 - [Parallel RNC](https://huggingface.co/datasets/armvectores/hy_parallel_rnc_2023), 0.7M
 
-
-# Models
+### Models
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)
+
+# Books
+- [Armenian early printed books]([https://huggingface.co/datasets/armvectores/hy_parallel_rnc_2023](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8))
+- [AUA library](https://digilib.aua.am/en/library/all)
+
+

@@ -29,7 +29,7 @@
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)
 
 # Books
-- [Armenian early printed books]([https://huggingface.co/datasets/armvectores/hy_parallel_rnc_2023](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
+- [Armenian early printed books](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
 - [AUA library](https://digilib.aua.am/en/library/all)
 - [Artsakh e-library](https://artsakhlib.am/en/)
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)

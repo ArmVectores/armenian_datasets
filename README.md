@@ -41,4 +41,11 @@
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian)
 - [Grqaser](https://grqaser.org/ru/)
 
+# Tools
+
+## Eastern
+
+###  Morphological analyzer
+-[Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
+
 

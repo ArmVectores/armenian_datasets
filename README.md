@@ -39,5 +39,6 @@
 - [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/ձեռագրերի-մայր-ցուցակ/)
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian)
+- [Grqaser](https://grqaser.org/ru/)
 
 

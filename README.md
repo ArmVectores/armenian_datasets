@@ -25,6 +25,7 @@
 - Not done [Wikisource 2023](https://hy.wikisource.org/wiki/Գլխավոր_էջ), XM
 - [Wikipedia 2023](https://huggingface.co/datasets/armvectores/hy_wikipedia_2023), 80M
 - [Parallel RNC](https://huggingface.co/datasets/armvectores/hy_parallel_rnc_2023), 0.7M
+- [Armenian legislation database from ARLIS](https://data.opendata.am/dataset/arlis-db), 375M
 
 ### Models
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)

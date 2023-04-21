@@ -42,12 +42,13 @@
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian)
 - [Grqaser](https://grqaser.org/ru/)
+- [Ebooks](https://ebooks.am/)
 
 # Tools
 
 ## Eastern
 
 ###  Morphological analyzer
--[Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
+- [Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
 
 

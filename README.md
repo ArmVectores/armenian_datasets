@@ -34,7 +34,6 @@
 - [Armenian early printed books](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
 - [AUA library](https://digilib.aua.am/en/library/all), 1300 books
 - [Artsakh e-library](https://artsakhlib.am/en/), 13000 small articles and some books
-- [Haybook](https://haybook.wordpress.com/)
 - [Greenstone digital library 1851-1900](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi), 3630 books, mostly hayeren
 - [Greenstone digital library 1901-1920](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=hajgirqn&l=hy&w=utf-8), 995 books, mostly hayeren
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
@@ -50,6 +49,9 @@
 - [Armenian poetry](https://armenian-poetry.blogspot.com/), 2929 small and medium poems
 - [Gallicia](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&query=%28gallica%20all%20%22armenien%22%29&filter=dc.language%20all%20%22arm%22), 393 books, no ocr available 
 - [Bonn university elib](https://digitale-sammlungen.ulb.uni-bonn.de/topic/view/17269), 419 books
+
+# Website with books from other resources
+- [Haybook](https://haybook.wordpress.com/)
 
 # Tools
 

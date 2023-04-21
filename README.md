@@ -45,6 +45,7 @@
 - [Ebooks](https://ebooks.am/)
 - [Z-library](https://z-lib.is/)
 - [YSU library](http://www.armin.am/am/Library)
+- [Grqamol](https://grqamol.am/category/e-books/)
 
 # Tools
 

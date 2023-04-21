@@ -59,3 +59,4 @@
 
 # Armenian books on not-hayeren language
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all), russian
+- [Aram](https://webaram.com/en/biblio/livre), french, 588 books

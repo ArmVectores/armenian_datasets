@@ -44,6 +44,7 @@
 - [Grqaser](https://grqaser.org/ru/)
 - [Ebooks](https://ebooks.am/)
 - [Z-library](https://z-lib.is/)
+- [YSU library](http://www.armin.am/am/Library)
 
 # Tools
 

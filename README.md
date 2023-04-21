@@ -46,7 +46,7 @@
 - [YSU library](http://www.armin.am/am/Library), 18 books, 14 articles
 - [Grqamol](https://grqamol.am/category/e-books/), 54 books
 - [dspace.nla.am](https://dspace.nla.am/home), 3500 articles
-- [Armenian poetry](https://armenian-poetry.blogspot.com/), 2929 poems
+- [Armenian poetry](https://armenian-poetry.blogspot.com/), 2929 small and medium poems
 
 # Tools
 

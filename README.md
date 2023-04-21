@@ -45,7 +45,7 @@
 - [Ebooks](https://ebooks.am/)
 - [Z-library](https://lib-owa4qh6tl4cgb4mpgeykjpih.b-ok.africa/s/?languages%5B%5D=armenian), 287 books
 - [YSU library](http://www.armin.am/am/Library)
-- [Grqamol](https://grqamol.am/category/e-books/)
+- [Grqamol](https://grqamol.am/category/e-books/), 54 books
 
 # Tools
 

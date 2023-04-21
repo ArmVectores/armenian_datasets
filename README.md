@@ -33,7 +33,7 @@
 # Books and articles
 - [Armenian early printed books](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
 - [AUA library](https://digilib.aua.am/en/library/all)
-- [Artsakh e-library](https://artsakhlib.am/en/), 13000 books and articles
+- [Artsakh e-library](https://artsakhlib.am/en/), 13000 small articles and some books
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)
 - [Haybook](https://haybook.wordpress.com/)
 - [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)

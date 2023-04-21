@@ -43,6 +43,7 @@
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian)
 - [Grqaser](https://grqaser.org/ru/)
 - [Ebooks](https://ebooks.am/)
+- [Z-library](https://z-lib.is/)
 
 # Tools
 

@@ -47,6 +47,7 @@
 - [Grqamol](https://grqamol.am/category/e-books/), 54 books
 - [dspace.nla.am](https://dspace.nla.am/home), 3500 articles
 - [Armenian poetry](https://armenian-poetry.blogspot.com/), 2929 small and medium poems
+- [Gallicia](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&query=%28gallica%20all%20%22armenien%22%29&filter=dc.language%20all%20%22arm%22), 393 books, no ocr available 
 
 # Tools
 

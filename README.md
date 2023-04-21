@@ -44,7 +44,7 @@
 - [Grqaser](https://grqaser.org/ru/)
 - [Ebooks](https://ebooks.am/)
 - [Z-library](https://lib-owa4qh6tl4cgb4mpgeykjpih.b-ok.africa/s/?languages%5B%5D=armenian), 287 books
-- [YSU library](http://www.armin.am/am/Library)
+- [YSU library](http://www.armin.am/am/Library), 18 books, 14 articles
 - [Grqamol](https://grqamol.am/category/e-books/), 54 books
 
 # Tools

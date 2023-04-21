@@ -40,10 +40,10 @@
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
 - [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/ձեռագրերի-մայր-ցուցակ/)
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
-- [Internet Archive](https://archive.org/details/booksbylanguage_armenian)
+- [Internet Archive](https://archive.org/details/booksbylanguage_armenian), 2.325 books
 - [Grqaser](https://grqaser.org/ru/)
 - [Ebooks](https://ebooks.am/)
-- [Z-library](https://z-lib.is/)
+- [Z-library](https://z-lib.is/), 287 books
 - [YSU library](http://www.armin.am/am/Library)
 - [Grqamol](https://grqamol.am/category/e-books/)
 

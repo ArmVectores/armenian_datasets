@@ -34,7 +34,6 @@
 - [Armenian early printed books](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
 - [AUA library](https://digilib.aua.am/en/library/all), 1300 books
 - [Artsakh e-library](https://artsakhlib.am/en/), 13000 small articles and some books
-- [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all)
 - [Haybook](https://haybook.wordpress.com/)
 - [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
@@ -55,4 +54,5 @@
 ###  Morphological analyzer
 - [Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
 
-
+# Armenian books on not-hayeren language
+- [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all), russian

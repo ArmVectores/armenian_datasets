@@ -38,7 +38,7 @@
 - [Haybook](https://haybook.wordpress.com/)
 - [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
-- [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/ձեռագրերի-մայր-ցուցակ/)
+- [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/թվային-գրադարան/), 101 books
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian), 2.325 books
 - [Grqaser](https://grqaser.org/ru/)

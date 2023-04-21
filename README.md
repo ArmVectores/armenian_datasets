@@ -35,7 +35,7 @@
 - [AUA library](https://digilib.aua.am/en/library/all), 1300 books
 - [Artsakh e-library](https://artsakhlib.am/en/), 13000 small articles and some books
 - [Haybook](https://haybook.wordpress.com/)
-- [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi)
+- [Greenstone digital library](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi), 3630 books, mostly hayeren
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
 - [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/թվային-գրադարան/), 101 books
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)

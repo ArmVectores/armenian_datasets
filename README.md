@@ -35,7 +35,6 @@
 - [Artsakh e-library](https://artsakhlib.am/en/), 13000 small articles and some books
 - [Greenstone digital library 1851-1900](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=hy&w=utf-8), 3630 books, mostly hayeren
 - [Greenstone digital library 1901-1920](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=hajgirqn&l=hy&w=utf-8), 995 books, mostly hayeren
-- [National library of Armenia](https://nla.am/arm/?q=en/node/3)
 - [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/թվային-գրադարան/), 101 books
 - [Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian), 2.325 books
@@ -51,6 +50,7 @@
 
 # Website with books from other resources
 - [Haybook](https://haybook.wordpress.com/)
+- [National library of Armenia](https://nla.am/arm/?q=en/node/3)
 
 # Tools
 

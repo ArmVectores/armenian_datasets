@@ -30,7 +30,7 @@
 ### Models
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)
 
-# Books
+# Books and articles
 - [Armenian early printed books](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=haygirq&l=en&w=utf-8)
 - [AUA library](https://digilib.aua.am/en/library/all)
 - [Artsakh e-library](https://artsakhlib.am/en/)
@@ -46,6 +46,7 @@
 - [Z-library](https://lib-owa4qh6tl4cgb4mpgeykjpih.b-ok.africa/s/?languages%5B%5D=armenian), 287 books
 - [YSU library](http://www.armin.am/am/Library), 18 books, 14 articles
 - [Grqamol](https://grqamol.am/category/e-books/), 54 books
+- [dspace.nla.am](https://dspace.nla.am/home), 3500 articles
 
 # Tools
 

@@ -51,7 +51,7 @@
 # Website with books from other resources
 - [Haybook](https://haybook.wordpress.com/)
 - [National library of Armenia](https://nla.am/arm/?q=en/node/3)
-- [tg channel Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm)
+- [tg channel Էլեկտրոնային գրքեր](https://t.me/pdf_grqerarm), 473 books
 
 # Tools
 

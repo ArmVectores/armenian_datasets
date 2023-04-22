@@ -48,6 +48,7 @@
 - [Gallicia](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&query=%28gallica%20all%20%22armenien%22%29&filter=dc.language%20all%20%22arm%22), 393 books, no ocr available 
 - [Bonn university elib](https://digitale-sammlungen.ulb.uni-bonn.de/topic/view/17269), 419 books, no ocr available
 - [Union Catalog of Armenian Libraries](https://armunicat.nla.am/cgi-bin/koha/opac-main.pl)
+- [Yerevan State Universuty publishing house](http://publishing.ysu.am/en/home), 4409 books
 
 # Website with books from other resources
 - [Haybook](https://haybook.wordpress.com/)

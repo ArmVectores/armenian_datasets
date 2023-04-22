@@ -40,7 +40,7 @@
 - [Grqaser](https://grqaser.org/ru/)
 - [Ebooks](https://ebooks.am/), 541 books
 - [Z-library](https://lib-owa4qh6tl4cgb4mpgeykjpih.b-ok.africa/s/?languages%5B%5D=armenian), 287 books
-- [YSU library](http://www.armin.am/am/Library), 18 books, 14 articles
+- [Institute of armenian studies YSU](http://www.armin.am/am/Library), 18 books, 14 articles
 - [Grqamol](https://grqamol.am/category/e-books/), 54 books
 - [Grapaharan](https://grapaharan.org/Կատեգորիա:Գրքեր), 173 books
 - [dspace.nla.am](https://dspace.nla.am/home), 3500 articles
@@ -48,7 +48,7 @@
 - [Gallicia](https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&version=1.2&startRecord=0&maximumRecords=15&page=1&query=%28gallica%20all%20%22armenien%22%29&filter=dc.language%20all%20%22arm%22), 393 books, no ocr available 
 - [Bonn university elib](https://digitale-sammlungen.ulb.uni-bonn.de/topic/view/17269), 419 books, no ocr available
 - [Union Catalog of Armenian Libraries](https://armunicat.nla.am/cgi-bin/koha/opac-main.pl)
-- [Yerevan State Universuty publishing house](http://publishing.ysu.am/en/home), 4409 books
+- [YSU publishing house](http://publishing.ysu.am/en/home), 4409 books
 
 # Website with books from other resources
 - [Haybook](https://haybook.wordpress.com/)

@@ -29,6 +29,7 @@
 
 ### Models
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)
+- [HyeBert](https://huggingface.co/aking11/hyebert)
 
 # Books and articles
 - [AUA library](https://digilib.aua.am/en/library/all), 1300 books

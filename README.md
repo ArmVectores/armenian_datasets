@@ -38,7 +38,7 @@
 - [Greenstone digital library 1901-1920](http://greenstone.flib.sci.am/gsdl/cgi-bin/library.cgi?site=localhost&a=p&p=about&c=hajgirqn&l=hy&w=utf-8), 2498 books, mostly hayeren
 - [Matenadaran digital library](https://matenadaran.am/մատենադարան/թվային-շտեմարաններ/թվային-գրադարան/), 101 books
 - [Internet Archive](https://archive.org/details/booksbylanguage_armenian), 2.325 books
-- [Grqaser](https://grqaser.org/ru/)
+- [Grqaser](https://grqaser.org/ru/), 60 books
 - [Ebooks](https://ebooks.am/), 541 books
 - [Z-library](https://lib-owa4qh6tl4cgb4mpgeykjpih.b-ok.africa/s/?languages%5B%5D=armenian), 287 books
 - [Institute of armenian studies YSU](http://www.armin.am/am/Library), 18 books, 14 articles

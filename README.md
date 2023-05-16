@@ -62,6 +62,7 @@
 
 ###  Morphological analyzer
 - [Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
+- [Stanza](https://huggingface.co/stanfordnlp/stanza-hy)
 
 # Armenian books on not-hayeren language
 - [Patmahir](https://patmahair.com/catalog/literature?sort=byPopularity&topic=all), russian

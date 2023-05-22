@@ -62,13 +62,12 @@
 
 # Tools
 
-## Eastern
 
 ###  Morphological analyzer
 - [Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
 - [Stanza](https://huggingface.co/stanfordnlp/stanza-hy)
 - [eastern armenian tree bank tokenizer](https://github.com/Armtreebank/Tokenizer)
-- [western armenian transducer](https:// github.com/apertium/apertium-hyw)
+- [western armenian transducer](https://github.com/apertium/apertium-hyw)
 
 
 # Armenian books on not-hayeren language

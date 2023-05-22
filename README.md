@@ -68,6 +68,7 @@
 - [Stanza](https://huggingface.co/stanfordnlp/stanza-hy)
 - [eastern armenian tree bank tokenizer](https://github.com/Armtreebank/Tokenizer)
 - [western armenian transducer](https://github.com/apertium/apertium-hyw)
+- [eastern armenian transducer](https://github.com/apertium/apertium-hye)
 
 
 # Armenian books on not-hayeren language

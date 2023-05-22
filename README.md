@@ -66,7 +66,7 @@
 ###  Morphological analyzer
 - [Eastern Armenian morphological analyzer](https://github.com/timarkh/uniparser-grammar-eastern-armenian)
 - [Stanza](https://huggingface.co/stanfordnlp/stanza-hy)
-- [eastern armenian tree bank tokenizer](https://github.com/Armtreebank/Tokenizer)
+- [eastern armenian tree bank Parser ](https://github.com/Armtreebank/End-to-end-Parser)
 - [western armenian transducer](https://github.com/apertium/apertium-hyw)
 - [eastern armenian transducer](https://github.com/apertium/apertium-hye)
 

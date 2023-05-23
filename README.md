@@ -6,6 +6,8 @@
 - [EANC](http://eanc.net.), 110M, UD, no API
 - [Armtreebank](http://armtreebank.yerevann.com), 0.1M, UD
 - [Universal Dependencies](https://universaldependencies.org/#language-), 0.1M, UD
+- [Gregory v1 classical armenian](https://www.gregoriproject.com)
+- [Gregory v2 classical armenian](https://www.v2.gregoriproject.com)
 
 ### Labeled data
 - [Translated movie subtitles](https://opus.nlpl.eu/OpenSubtitles2018.php), 0.033M

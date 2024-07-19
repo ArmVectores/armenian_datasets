@@ -56,6 +56,7 @@
 - [Bonn university elib](https://digitale-sammlungen.ulb.uni-bonn.de/topic/view/17269), 419 books, no ocr available
 - [Union Catalog of Armenian Libraries](https://armunicat.nla.am/cgi-bin/koha/opac-main.pl)
 - [YSU publishing house](http://publishing.ysu.am/en/home), 4409 books
+- [Армянская Апостольская Церковь Санкт-Петербурга, духовная литература](http://armenian-church.org/biblioteka/dukhovnaya-literatura) 36 books
 
 # Website with books from other resources
 - [Haybook](https://haybook.wordpress.com/)

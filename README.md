@@ -1,5 +1,7 @@
 # Armenian datasets
 
+[Reference](https://github.com/alphacep/awesome-russian-speech) of the datasets
+
 ## Eastern
 
 ### Corpuses

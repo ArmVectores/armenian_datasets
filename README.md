@@ -2,6 +2,8 @@
 
 [Reference](https://github.com/alphacep/awesome-russian-speech) of the datasets
 
+[Benchmark](https://mera.a-ai.ru/ru) for the Russian language for evaluating fundamental models
+
 ## Eastern
 
 ### Corpuses

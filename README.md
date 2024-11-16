@@ -35,6 +35,7 @@
 - [Open subtitles](https://huggingface.co/datasets/open_subtitles)
 - [Tatoeba](https://huggingface.co/datasets/tatoeba)
 - [Tatoeba machine translation](https://github.com/Helsinki-NLP/Tatoeba-Challenge)
+- [C4](https://huggingface.co/datasets/allenai/c4), 0.85M
 
 ### Models
 - Distribution [models](https://github.com/ispras-texterra/word-embeddings-eval-hy) 90M from [paper 2019](https://arxiv.org/abs/1906.03134#)
